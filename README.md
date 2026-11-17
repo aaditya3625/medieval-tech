@@ -3,7 +3,7 @@
 Coded database of technologies and implements in Irfan Habib, *Technology in Medieval India c. 650-1750*,
 ch. 3 (military technology, land transport, navigation), pp. 85-112. Pages 108 and 110 are not yet coded.
 Habib is the only source. All years are dates of *first notice* in the evidence (see Date caveat). Years I coded myself are flagged in `analyst_notes`.
-One row = one technology, implement or institution.
+One row = one technology, implement
 
 ## Pipeline
 1. Export the Sheets workbook to `data/raw/habib_technology_db.xlsx` (keep the sheet name `Technologies`).
